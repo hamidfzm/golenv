@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # This file must be used with "source activate" *from bash*
 # you cannot run it directly
 
